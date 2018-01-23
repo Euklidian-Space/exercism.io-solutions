@@ -1,0 +1,3 @@
+var _exercism$elm$HelloWorld$helloWorld = function (name) {
+	return 'replace with your code!';
+};
